@@ -1,0 +1,14 @@
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Excepciones/bin/Debug/net9.0/Excepciones
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Excepciones/bin/Debug/net9.0/Excepciones.deps.json
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Excepciones/bin/Debug/net9.0/Excepciones.runtimeconfig.json
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Excepciones/bin/Debug/net9.0/Excepciones.dll
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Excepciones/bin/Debug/net9.0/Excepciones.pdb
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Excepciones/obj/Debug/net9.0/Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Excepciones/obj/Debug/net9.0/Excepciones.AssemblyInfoInputs.cache
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Excepciones/obj/Debug/net9.0/Excepciones.AssemblyInfo.cs
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Excepciones/obj/Debug/net9.0/Excepciones.csproj.CoreCompileInputs.cache
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Excepciones/obj/Debug/net9.0/Excepciones.dll
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Excepciones/obj/Debug/net9.0/refint/Excepciones.dll
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Excepciones/obj/Debug/net9.0/Excepciones.pdb
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Excepciones/obj/Debug/net9.0/Excepciones.genruntimeconfig.cache
+/Users/darlingtonpadgett/Documents/Universidad/Programacion 2/Excepciones/obj/Debug/net9.0/ref/Excepciones.dll
